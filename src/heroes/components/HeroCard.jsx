@@ -18,7 +18,7 @@ export const HeroCard = ({
 }) => {
 
     // const heroImageUrl = `/assets/heroes/${id}.jpg`
-    const heroImageUrl = `/public/${id}.jpg`
+    const heroImageUrl = `https://israchido.github.io/HeroesApp/${id}.jpg`
 
     // const charactersByHero = (<p>{characters}</p>);
 
